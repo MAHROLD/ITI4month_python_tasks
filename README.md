@@ -10,3 +10,8 @@ clock print:
 calculator print :
 
 ![claculator](https://user-images.githubusercontent.com/75576938/202779521-a7dc7115-3e9e-481e-89d0-e22289427827.gif)
+
+
+grocery print:
+
+![grocery](https://user-images.githubusercontent.com/75576938/202797311-8db27ac4-659d-4949-8ca6-c8b0240f0fae.gif)
